@@ -1,0 +1,9 @@
+
+{
+  "name": "DarijaPro AI Video Editor",
+  "description": "A professional AI-powered video editing system specialized in Moroccan Darija script rewriting, silence removal, and modern subtitle embedding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
